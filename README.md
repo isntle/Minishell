@@ -51,3 +51,5 @@ El contenido de este repositorio está protegido para evitar plagio.
 
 Si deseas visualizar el código fuente completo, por favor solicítame acceso directamente para poder invitarte al repositorio privado.
 
+Link del repositorio privado: https://github.com/isntle/Codigo-Minishell
+
