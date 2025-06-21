@@ -46,7 +46,7 @@ Estudiante de Ingeniería en Sistemas Computacionales
 
 ESCOM – Instituto Politécnico Nacional
 
-##Acceso al código fuente
+## Acceso al código fuente
 El contenido de este repositorio está protegido para evitar plagio.
 
 Si deseas visualizar el código fuente completo, por favor solicítame acceso directamente para poder invitarte al repositorio privado.
