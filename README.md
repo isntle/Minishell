@@ -41,8 +41,10 @@ Una vez ejecutado, podrás ingresar comandos como si estuvieras en Bash.
 
 ## Autor
 **Mérida de León Luis Ernesto**
-\nEstudiante de Ingeniería en Sistemas Computacionales
-\nESCOM – Instituto Politécnico Nacional
+
+Estudiante de Ingeniería en Sistemas Computacionales
+
+ESCOM – Instituto Politécnico Nacional
 
 
 
