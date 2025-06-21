@@ -1,4 +1,4 @@
-# Minishell – Proyecto Final de Sistemas Operativos
+# Proyecto Minishell
 
 Este proyecto consiste en un minishell desarrollado completamente en lenguaje C, inspirado en Bash. Fue implementado como parte de la materia de Sistemas Operativos en la ESCOM-IPN, y presentado en ExpoESCOM 2025.
 
